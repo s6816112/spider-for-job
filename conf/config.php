@@ -1,20 +1,14 @@
 <?php
 
-/**
- * @Author: jsy135135
- * @email:732677288@qq.com
- * @Date:   2017-10-14 19:43:43
- * @Last Modified by:   jsy135135
- * @Last Modified time: 2017-10-14 19:44:15
- */
+
 //是否入库mysql
 define('USEMYSQL', 'no');
 // 数据库主机地址
 define('HOST', '127.0.0.1');
 // 数据库用户名称
-define('USER', 'root');
+define('USER', '');
 // 数据库用户密码
-define('PASSWORD', 'root');
+define('PASSWORD', '');
 // 数据库名称
 define('DATABASE', 'curl');
 // 数据表名称
