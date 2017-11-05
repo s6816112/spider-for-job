@@ -2,7 +2,6 @@
 
 /**
  * curl多线程demo
-  
  */
 
 $urls = array(

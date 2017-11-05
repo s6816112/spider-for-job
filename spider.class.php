@@ -1,12 +1,5 @@
 <?php
 
-/**
- * @Author: jsy135135
- * @email:732677288@qq.com
- * @Date:   2017-10-14 19:15:47
- * @Last Modified by:   jsy135135
- * @Last Modified time: 2017-10-15 23:22:30
- */
 
 class Spider
 {
